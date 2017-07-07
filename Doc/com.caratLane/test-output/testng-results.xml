@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14544" started-at="2017-07-07T04:11:48Z" finished-at="2017-07-07T04:12:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14544" started-at="2017-07-07T04:11:48Z" finished-at="2017-07-07T04:12:02Z">
+      <class name="com.caratLane.Tests.TestApp">
+        <test-method status="PASS" signature="invokeChromeBrowser()[pri:0, instance:com.caratLane.Tests.TestApp@5636e34]" name="invokeChromeBrowser" is-config="true" duration-ms="9" started-at="2017-07-07T09:41:48Z" finished-at="2017-07-07T09:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeChromeBrowser -->
+        <test-method status="PASS" signature="productPage()[pri:0, instance:com.caratLane.Tests.TestApp@5636e34]" name="productPage" duration-ms="14518" started-at="2017-07-07T09:41:48Z" finished-at="2017-07-07T09:42:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productPage -->
+      </class> <!-- com.caratLane.Tests.TestApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
